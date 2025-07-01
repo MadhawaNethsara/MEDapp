@@ -5,7 +5,7 @@ import Stureg from "./Admin/Stureg.jsx";
 import Updatet from "./Admin/Updatet.jsx";
 import Admin from "./Admin/Admin.jsx";
 import Layout from './Layout.jsx';
-
+import Ddash from "./Doctor/Ddash.jsx";
 function App() {
 
 
@@ -13,9 +13,9 @@ function App() {
    //<Login />
   //<Stureg />
     //<Updatet />
-  <Admin/>
+  //<Admin/>
     //<Layout/>
-
+    <Ddash/>
 
 
 
