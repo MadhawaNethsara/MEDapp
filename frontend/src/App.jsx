@@ -5,6 +5,8 @@ import Stureg from "./Admin/Stureg.jsx";
 import Updatet from "./Admin/Updatet.jsx";
 import Admin from "./Admin/Admin.jsx";
 import Layout from './Layout.jsx';
+import Sdash from "./Student/Sdash.jsx";
+
 import Ddash from "./Doctor/Ddash.jsx";
 import Cdash from "./Committe/Cdash.jsx"
 function App() {
@@ -16,8 +18,9 @@ function App() {
     //<Updatet />
   //<Admin/>
     //<Layout/>
+    <Sdash/>
     //<Ddash/>
-    <Cdash/>
+    //<Cdash/>
 
 
 
