@@ -7,6 +7,8 @@ import Admin from "./Admin/Admin.jsx";
 import Layout from './Layout.jsx';
 import Sdash from "./Student/Sdash.jsx";
 
+import Ddash from "./Doctor/Ddash.jsx";
+import Cdash from "./Committe/Cdash.jsx"
 function App() {
 
 
@@ -17,6 +19,8 @@ function App() {
   //<Admin/>
     //<Layout/>
     <Sdash/>
+    //<Ddash/>
+    //<Cdash/>
 
 
 
